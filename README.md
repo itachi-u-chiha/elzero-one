@@ -1,3 +1,3 @@
-#1 elzero-one
+# elzero-one
 for elzero web school
 
